@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Ubuntu-Medium;
+  src: url(../fonts/Ubuntu-Medium.ttf);
+}
+
+@font-face {
+  font-family: SahelBold;
+  src: url(../fonts/Sahel-Bold-FD.ttf);
+}
+
+@font-face {
+  font-family: SahelLight;
+  src: url(../fonts/Sahel-Light-FD.ttf);
+}
+
+form.woocommerce-ordering {
+  font-family : 'SahelBold';
+  cursor : pointer;
+}
+
+
+body {
+  font-family : 'SahelBold';
+}
